@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/chaos_game.dir/home/pi/projects/chaos_game/src/main.cpp.o  -o chaos_game -rdynamic -lGL -lglfw -lGLEW -lfreeimageplus 

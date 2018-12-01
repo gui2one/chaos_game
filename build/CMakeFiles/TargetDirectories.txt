@@ -1,0 +1,3 @@
+/home/pi/projects/chaos_game/build/CMakeFiles/edit_cache.dir
+/home/pi/projects/chaos_game/build/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/chaos_game/build/CMakeFiles/chaos_game.dir

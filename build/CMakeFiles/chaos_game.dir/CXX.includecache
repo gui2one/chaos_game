@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/projects/chaos_game/src/main.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+math.h
+-
+string
+-
+FreeImagePlus.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+
